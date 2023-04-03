@@ -1,0 +1,15 @@
+E:\Программирование\Си шарп\Examples\Example001_Hellow_console\bin\Debug\net6.0\Example001_Hellow_console.exe
+E:\Программирование\Си шарп\Examples\Example001_Hellow_console\bin\Debug\net6.0\Example001_Hellow_console.deps.json
+E:\Программирование\Си шарп\Examples\Example001_Hellow_console\bin\Debug\net6.0\Example001_Hellow_console.runtimeconfig.json
+E:\Программирование\Си шарп\Examples\Example001_Hellow_console\bin\Debug\net6.0\Example001_Hellow_console.dll
+E:\Программирование\Си шарп\Examples\Example001_Hellow_console\bin\Debug\net6.0\Example001_Hellow_console.pdb
+E:\Программирование\Си шарп\Examples\Example001_Hellow_console\obj\Debug\net6.0\Example001_Hellow_console.csproj.AssemblyReference.cache
+E:\Программирование\Си шарп\Examples\Example001_Hellow_console\obj\Debug\net6.0\Example001_Hellow_console.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\Си шарп\Examples\Example001_Hellow_console\obj\Debug\net6.0\Example001_Hellow_console.AssemblyInfoInputs.cache
+E:\Программирование\Си шарп\Examples\Example001_Hellow_console\obj\Debug\net6.0\Example001_Hellow_console.AssemblyInfo.cs
+E:\Программирование\Си шарп\Examples\Example001_Hellow_console\obj\Debug\net6.0\Example001_Hellow_console.csproj.CoreCompileInputs.cache
+E:\Программирование\Си шарп\Examples\Example001_Hellow_console\obj\Debug\net6.0\Example001_Hellow_console.dll
+E:\Программирование\Си шарп\Examples\Example001_Hellow_console\obj\Debug\net6.0\refint\Example001_Hellow_console.dll
+E:\Программирование\Си шарп\Examples\Example001_Hellow_console\obj\Debug\net6.0\Example001_Hellow_console.pdb
+E:\Программирование\Си шарп\Examples\Example001_Hellow_console\obj\Debug\net6.0\Example001_Hellow_console.genruntimeconfig.cache
+E:\Программирование\Си шарп\Examples\Example001_Hellow_console\obj\Debug\net6.0\ref\Example001_Hellow_console.dll
